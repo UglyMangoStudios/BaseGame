@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Recipes xmlns="http://tempuri.org/RecipeSchema.xsd"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xsi:schemaLocation="http://www.w3schools.com file:///C:/Users/kylet/Projects/C%23/SpaceGame/SpaceServer/data/XML/Schemas/RecipeSchema.xsd">
+
+
+    <Group id="extractions" name="Extractions">
+        <Recipe id="harvest_oxygen" name="Harvest Oxygen" time="1">
+            <Description>
+                A rather simple method of harvesting oxygen from the ground
+            </Description>
+            <Output>
+                <Entry target="oxygen" qnt="1"/>
+            </Output>
+        </Recipe>
+        <Recipe id="mine_iron_ore" name="Mine Iron Ore" time="1">
+            <Description>
+                A simple method of mining iron from rock.
+            </Description>
+            <Output>
+                <Entry target="iron_ore" qnt="1"/>
+            </Output>
+        </Recipe>
+    </Group>
+    
+
+</Recipes>

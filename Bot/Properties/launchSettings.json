@@ -1,0 +1,18 @@
+{
+  "profiles": {
+    "SpaceDiscordBot": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "launchUrl": "swagger",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "dotnetRunMessages": true,
+      "applicationUrl": "https://localhost:8080"
+    },
+    "NoBot": {
+      "commandName": "Project",
+      "commandLineArgs": "noBot"
+    }
+  }
+}

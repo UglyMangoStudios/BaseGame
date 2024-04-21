@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="RecipeSchema"
+    targetNamespace="http://tempuri.org/RecipeSchema.xsd"
+    elementFormDefault="qualified"
+    xmlns="http://tempuri.org/RecipeSchema.xsd"
+    xmlns:mstns="http://tempuri.org/RecipeSchema.xsd"
+    xmlns:xs="http://www.w3.org/2001/XMLSchema"
+    xmlns:xi="http://www.w3.org/2001/XInclude"
+>
+    <xs:complexType name="ResourceDictionary">
+        <xs:sequence>
+
+            <xs:element name="Entry" maxOccurs="unbounded" minOccurs="1">
+                <xs:complexType>
+                    <xs:attribute name="target" use="required" type="xs:ID">
+                    </xs:attribute>
+                    <xs:attribute name="qnt" use="required"/>
+                </xs:complexType>
+                
+            </xs:element>
+
+        </xs:sequence>
+    </xs:complexType>
+
+   
+    <xs:element name="Recipes">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="Group" minOccurs="1" maxOccurs="unbounded">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name="Recipe" maxOccurs="unbounded" minOccurs="1">
+                                <xs:complexType>
+                                    <xs:all maxOccurs="1">
+                                        <xs:element name="Output" minOccurs="1"
+                                                    type="mstns:ResourceDictionary"/>
+                                        <xs:element name="Input" minOccurs="0"
+                                                    type="mstns:ResourceDictionary"/>
+
+                                        <xs:element name="Description" minOccurs="0"  type="xs:string"/>
+                                    </xs:all>
+
+                                    <xs:attribute name="id" type="xs:ID" use="required"/>
+                                    <xs:attribute name="name" type="xs:string" use="required"/>
+                                    <xs:attribute name="time" type="xs:unsignedInt" use="required"/>
+                                </xs:complexType>
+                            </xs:element>
+                        </xs:sequence>
+                        <xs:attribute name="id" type="xs:ID"/>
+                        <xs:attribute name="name" type="xs:string"/>
+                    </xs:complexType>
+                </xs:element>                
+            </xs:sequence>
+        </xs:complexType>
+        
+    </xs:element>
+
+</xs:schema>

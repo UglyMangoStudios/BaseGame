@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="ResourceSchema"
+    targetNamespace="http://tempuri.org/ResourceSchema.xsd"
+    elementFormDefault="qualified"
+    xmlns="http://tempuri.org/ResourceSchema.xsd"
+    xmlns:mstns="http://tempuri.org/ResourceSchema.xsd"
+    xmlns:xs="http://www.w3.org/2001/XMLSchema"
+>
+
+    <xs:complexType name="Resource">
+        <xs:all maxOccurs="1">
+            <xs:element name="Description" minOccurs="0" type="xs:string"/>
+            <xs:element name="ImageUrl" minOccurs="0" type="xs:string"/>
+            <xs:element name="Emoji" minOccurs="0" type="xs:string"/>
+        </xs:all>
+        <xs:attribute name="id" type="xs:ID" use ="required"/>
+        <xs:attribute name="name" type="xs:string" use="required"/>
+        <xs:attribute name="rarity" use="required">
+            <xs:simpleType>
+                <xs:restriction base="xs:string">
+                    <xs:enumeration value="Common"/>
+                    <xs:enumeration value="Uncommon"/>
+                    <xs:enumeration value="Unique"/>
+                    <xs:enumeration value="Rare"/>
+                    <xs:enumeration value="Unreal"/>
+                    <xs:enumeration value="Legendary"/>
+                    <xs:enumeration value="Mythic"/>
+                    <xs:enumeration value="Godly"/>
+                </xs:restriction>
+            </xs:simpleType>
+        </xs:attribute>
+    </xs:complexType>
+
+    <xs:element name="Resources">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="Group" minOccurs="1" maxOccurs="unbounded">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name="Resource" type="Resource"
+                                 minOccurs="0" maxOccurs="unbounded"/>
+                        </xs:sequence>
+                        <xs:attribute name="id" type="xs:ID"/>
+                        <xs:attribute name="name" type="xs:string"/>
+                    </xs:complexType>
+                </xs:element>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    
+</xs:schema>

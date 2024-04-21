@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="BuildingSchema"
+    targetNamespace="http://tempuri.org/BuildingSchema.xsd"
+    elementFormDefault="qualified"
+    xmlns="http://tempuri.org/BuildingSchema.xsd"
+    xmlns:mstns="http://tempuri.org/BuildingSchema.xsd"
+    xmlns:xs="http://www.w3.org/2001/XMLSchema"
+    xmlns:xi="http://www.w3.org/2001/XInclude"
+>
+    
+    <xs:complexType name="BaseBuilding">
+        <xs:all maxOccurs="1">
+            <xs:element name="Description" minOccurs="0" type="xs:string"/>
+            <xs:element name="ImageUrl" minOccurs="0">
+                <xs:complexType>
+                    <xs:attribute name="url" use="required"/>
+                </xs:complexType>
+            </xs:element>
+            <xs:element name="Emoji" minOccurs="0">
+                <xs:complexType>
+                    <xs:attribute name="syntax" use="required"/>
+                </xs:complexType>
+            </xs:element>
+            <xs:element name="Speed" minOccurs="0" type="xs:double"/>
+        </xs:all>
+        <xs:attribute name="id" type="xs:ID" use ="required"/>
+        <xs:attribute name="name" type="xs:string" use="required"/>
+        <xs:attribute name="energy" type="xs:string" use="required"/>
+        <xs:attribute name="rarity" use="required">
+            <xs:simpleType>
+                <xs:restriction base="xs:string">
+                    <xs:enumeration value="Common"/>
+                    <xs:enumeration value="Uncommon"/>
+                    <xs:enumeration value="Unique"/>
+                    <xs:enumeration value="Rare"/>
+                    <xs:enumeration value="Unreal"/>
+                    <xs:enumeration value="Legendary"/>
+                    <xs:enumeration value="Mythic"/>
+                    <xs:enumeration value="Godly"/>
+                </xs:restriction>
+            </xs:simpleType>
+        </xs:attribute>
+    </xs:complexType>
+
+    <xs:complexType name="RecipeBuilding">
+        <xs:all maxOccurs="1">
+            <xs:element name="Recipes" minOccurs="1">
+                <xs:complexType>
+                    <xs:sequence maxOccurs="unbounded" minOccurs="0">
+                        <xs:element name="Recipe" type="xs:Name"/>
+                    </xs:sequence>
+                </xs:complexType>
+                <xs:unique name="uniqueRecipeWithinObject">
+                    <xs:selector xpath="mstns:Recipe"/>
+                    <xs:field xpath="."/>
+                </xs:unique>
+            </xs:element>
+            <xs:element name="Speed" minOccurs="0" type="xs:double"/>
+        </xs:all>
+    </xs:complexType>
+    
+    <xs:element name="Buildings">
+        <xs:complexType>
+            <xs:sequence minOccurs="1" maxOccurs="unbounded">
+                <xs:element name="Group" minOccurs="1" maxOccurs="unbounded">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name="RecipeBuilding" type="mstns:RecipeBuilding"  minOccurs="0" maxOccurs="unbounded"/>
+                        </xs:sequence>
+                        <xs:attribute name="id" type="xs:ID"/>
+                        <xs:attribute name="name" type="xs:string"/>
+                    </xs:complexType>
+                </xs:element>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    
+</xs:schema>

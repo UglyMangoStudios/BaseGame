@@ -1,0 +1,22 @@
+﻿//using Discord;
+//using SpaceCore.Game.Space.Bodies.Components;
+
+//namespace SpaceDiscordBot.Utilities.Game
+//{
+//	internal static class RegionUtility
+//	{
+
+//		public static EmbedBuilder BuildGeneralEmbed(Region region)
+//		{
+//			EmbedBuilder builder = new();
+
+//			builder.WithTitle($"{Emoji.Parse("🗺️")} Region {region.Name} ({region.Id})")
+//				.WithColor(87, 101, 116)
+//				.WithFooter(region.WritePath())
+//				.WithCurrentTimestamp();
+
+//			return builder;
+//		}
+
+//	}
+//}

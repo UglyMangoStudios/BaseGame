@@ -1,0 +1,196 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Buildings xmlns="http://tempuri.org/BuildingSchema.xsd"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xsi:schemaLocation="http://www.w3schools.com file:///C:/Users/kylet/Projects/C%23/SpaceGame/SpaceServer/data/XML/Schemas/BuildingSchema.xsd">
+
+    
+    
+    <Group id="extractors" name="Extractors">
+        <RecipeBuilding id="nonmetal_harvester" name="Nonmetal Harvester" energy="3" rarity="Common">
+            <Speed>1</Speed>
+            <Description>
+                A rather simple harvester that specializes in the explotation of common nonmetal volatiles.
+            </Description>
+            <Recipes>
+                <Recipe>harvest_oxygen</Recipe>
+            </Recipes>
+        </RecipeBuilding>
+        <RecipeBuilding id="metal_mine" name="Metal Mine" energy="4" rarity="Common">
+            <Description>
+                A rather simple mine that extracts raw metals within the crust of the planet.
+            </Description>
+            <Recipes>
+                <Recipe>mine_iron_ore</Recipe>
+            </Recipes>
+        </RecipeBuilding>
+        <RecipeBuilding id="deep_mine" name="Deep Mine" energy="15" rarity="Rare">
+            <Recipes>
+                
+            </Recipes>
+        </RecipeBuilding>
+        <RecipeBuilding id="pump" name="Pump" energy="4" rarity="Common">
+            <Recipes>
+                
+            </Recipes>
+        </RecipeBuilding>
+        <RecipeBuilding id="crystalizing_chamber" name="Crystalizing Chamber" energy="10" rarity="Uncommon">
+            <Recipes>
+                
+            </Recipes>
+        </RecipeBuilding>
+        
+    </Group>
+
+    
+    
+    <Group id="refining" name="Refining">
+        <RecipeBuilding id="smelter" name="Smelter" energy="15" rarity="Common">
+            <Recipes>
+
+            </Recipes>
+        </RecipeBuilding>
+        <RecipeBuilding id="heavy_smelter" name="Heavy Duty Smelter" energy="30" rarity="Uncommon">
+            <Recipes>
+                
+            </Recipes>
+        </RecipeBuilding>
+        <RecipeBuilding id="refinery" name="Refinery" energy="15" rarity="Common">
+            <Recipes>
+                
+            </Recipes>
+        </RecipeBuilding>
+    </Group>
+
+
+
+    <Group id="organics" name="Organics">
+        <RecipeBuilding id="farm" name="Farm" energy="3" rarity="Common">
+            <Recipes>
+                
+            </Recipes>
+        </RecipeBuilding>
+        <RecipeBuilding id="aquaponics" name="Aquaponics" energy="15" rarity="Uncommon">
+            <Recipes>
+                
+            </Recipes>
+        </RecipeBuilding>
+        <RecipeBuilding id="fishery" name="Fishery" energy="5" rarity="Common">
+            <Recipes>
+                
+            </Recipes>
+        </RecipeBuilding>
+    </Group>
+
+
+
+    <Group id="physical_buildings" name="Physical Buildings">
+        <RecipeBuilding id="particle_accelerator" name="Particle Accelerator" energy="100" rarity="Unique">
+            <Recipes>
+                
+            </Recipes>
+        </RecipeBuilding>
+        <RecipeBuilding id="blasting_chamber" name="Blasting Chamber" energy="15" rarity="Common">
+            <Recipes>
+                
+            </Recipes>
+        </RecipeBuilding>
+        <RecipeBuilding id="condensor" name="Consendor" energy="10" rarity="Common">
+            <Recipes>
+                
+            </Recipes>
+        </RecipeBuilding>
+        <RecipeBuilding id="gravitron" name="Gravitron" energy="75" rarity="Rare">
+            <Recipes>
+                
+            </Recipes>
+        </RecipeBuilding>
+        <RecipeBuilding id="cryo_facility" name="Cryogenics Facility" energy="25" rarity="Uncommon">
+            <Recipes>
+                
+            </Recipes>
+        </RecipeBuilding>
+        <RecipeBuilding id="thermo_tower" name="Thermo Tower" energy="25" rarity="Uncommon">
+            <Recipes>
+                
+            </Recipes>
+        </RecipeBuilding>
+    </Group>
+
+
+
+    <Group id="computational_buildings" name="Computational Buildings">
+        <RecipeBuilding id="quantum_computer" name="Quantum Computer" energy="150" rarity="Uncommon">
+            <Recipes>
+                
+            </Recipes>
+        </RecipeBuilding>
+        <RecipeBuilding id="random_center" name="Randimization Center" energy="1000" rarity="Unique">
+            <Recipes>
+                
+            </Recipes>
+        </RecipeBuilding>
+    </Group>
+    
+    
+    
+    <Group id="manufacturing" name="Manufacturing">
+        <RecipeBuilding id="extruder" name="Extruder" energy="5" rarity="Common">
+            <Recipes>
+                
+            </Recipes>
+        </RecipeBuilding>
+        <RecipeBuilding id="infuser" name="Infuser" energy="15" rarity="Uncommon">
+            <Recipes>
+                
+            </Recipes>
+        </RecipeBuilding>
+        <RecipeBuilding id="sodering_plant" name="Sodering Plant" energy="10" rarity="Common">
+            <Recipes>
+                
+            </Recipes>
+        </RecipeBuilding>
+        <RecipeBuilding id="chemical_plant" name="Chemical Plant" energy="15" rarity="Common">
+            <Recipes>
+                
+            </Recipes>
+        </RecipeBuilding>
+        <RecipeBuilding id="nuclear_chemical_plant" name="Nuclear Chemical Plant" energy="500" rarity="Unique">
+            <Recipes>
+                
+            </Recipes>
+        </RecipeBuilding>
+    </Group>
+
+
+
+    <Group id="deepspace_buildings" name="Deepspace Buildings">
+        <RecipeBuilding id="zp_extractor" name="Zero Point Extractor" energy="999D" rarity="Godly">
+            <Recipes>
+                
+            </Recipes>
+        </RecipeBuilding>
+    </Group>
+
+
+
+    <Group id="science_buildings" name="Science Buildings">
+        <RecipeBuilding id="research_center" name="Research Center" energy="50" rarity="Common">
+            <Recipes>
+                
+            </Recipes>
+        </RecipeBuilding>
+    </Group>
+
+
+    
+    <Group id="misc" name="Miscallaneous">
+        <RecipeBuilding id="isolation_core" name="Isolation Core" energy="69M" rarity="Godly">
+            <Recipes>
+                
+            </Recipes>
+        </RecipeBuilding>
+    </Group>
+    
+    
+
+</Buildings>

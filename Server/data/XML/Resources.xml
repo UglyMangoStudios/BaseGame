@@ -1,0 +1,359 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Resources xmlns="http://tempuri.org/ResourceSchema.xsd"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xsi:schemaLocation="http://www.w3schools.com file:///C:/Users/kylet/Projects/C%23/SpaceGame/SpaceServer/data/XML/Schemas/ResourceSchema.xsd">
+
+
+    <!--Basic global resources-->
+    <Group id="fundementals" name="Fundementals">
+        <Resource id="energy" name="Energy" rarity="Common">
+            <Description>
+                This is the stuff that makes the world go round.
+                Make sure you never run out, otherwise lights out!
+            </Description>
+        </Resource>
+    </Group>
+
+
+    <!--Consumables-->
+    <Group id="consumables" name="Consumables">
+        <Resource id="food1" name="Food" rarity="Common">
+
+        </Resource>
+        <Resource id="lab_equip1" name="Lab Equipment" rarity="Common">
+
+        </Resource>
+    </Group>
+    
+
+
+
+    <!--Raw Resources-->
+    <Group id="raw_resources" name="Raw Resources">
+        <Resource id="iron_ore" name="Iron Ore" rarity="Common">
+            <Description>
+                The raw form of the fundemental metal in an expansive space empire.
+            </Description>
+        </Resource>
+        <Resource id="copper_ore" name="Copper Ore" rarity="Common">
+
+        </Resource>
+        <Resource id="limestone" name="Limestone" rarity="Common">
+            <Description>
+                Dead sea critters that have been squished and calcified into a delicious carbonate. Even then do they prove to be useful.
+            </Description>
+        </Resource>
+        <Resource id="uranium" name="Uranium" rarity="Common">
+
+        </Resource>
+        <Resource id="redstone" name="Redstone" rarity="Common">
+
+        </Resource>
+        <Resource id="vibranium_ore" name="Vibranium Ore" rarity="Unique">
+
+        </Resource>
+        <Resource id="gold_ore" name="Gold Ore" rarity="Common">
+
+        </Resource>
+        <Resource id="quantium" name="Quantium" rarity="Unreal">
+
+        </Resource>
+        <Resource id="unraveled_tachyon" name="Tachyon" rarity="Unreal">
+
+        </Resource>
+        <Resource id="nueralmodium" name="Nueralmodium" rarity="Unique">
+
+        </Resource>
+        <Resource id="neutronium" name="Neutronium" rarity="Rare">
+
+        </Resource>
+        <Resource id="ion_crystal" name="Ion Crystal" rarity="Uncommon">
+
+        </Resource>
+        <Resource id="flux_crystal" name="Flux Crystal" rarity="Uncommon">
+
+        </Resource>
+        <Resource id="zionite" name="Zionite" rarity="Unique">
+
+        </Resource>
+        <Resource id="enchantium" name="Enchantium" rarity="Unreal">
+
+        </Resource>
+        <Resource id="adamantium_ore" name="Adamantium Ore" rarity="Unique">
+
+        </Resource>
+        <Resource id="titanium_ore" name="Titanium Ore" rarity="Uncommon">
+
+        </Resource>
+        <Resource id="raw_neodymium" name="Raw Neodymium" rarity="Rare">
+
+        </Resource>
+    </Group>
+
+
+
+
+    <!--Power and Fuels-->
+    <Group id="power_n_fuels" name="Power + Fuels">
+        <Resource id="enriched_uranium" name="Enriched Uranium" rarity="Common">
+
+        </Resource>
+        <Resource id="thorium" name="Thorium" rarity="Uncommon">
+
+        </Resource>
+        <Resource id="unobtanium" name="Unobtanium" rarity="Unique">
+
+        </Resource>
+        <Resource id="chemical_fuel" name="Chemical Fuel" rarity="Uncommon">
+
+        </Resource>
+        <Resource id="antimatter_fuel" name="Antimatter Fuel" rarity="Unreal">
+
+        </Resource>
+        <Resource id="zp_fuel" name="Zero Point Fuel" rarity="Legendary">
+
+        </Resource>
+    </Group>
+
+
+
+
+
+    <!--Fluids-->
+    <Group id="fluids" name="Fluids">
+        <Resource id="water" name="Water" rarity="Common">
+
+        </Resource>
+        <Resource id="crude_oil" name="Crude Oil" rarity="Common">
+
+        </Resource>
+        <Resource id="methane_gas" name="Methane Gas" rarity="Common">
+
+        </Resource>
+        <Resource id="acid" name="Acid" rarity="Common">
+
+        </Resource>
+        <Resource id="ferrofluid" name="Ferrofluid" rarity="Uncommon">
+
+        </Resource>
+        <Resource id="liquid_nitrogen" name="Liquid Nitrogen" rarity="Common">
+
+        </Resource>
+        <Resource id="plasma" name="Plasma" rarity="Common">
+
+        </Resource>
+        <Resource id="organic_sludge" name="Organic Sludge" rarity="Common">
+
+        </Resource>
+    </Group>
+
+    
+    
+    <!--Construction Resources-->
+    <Group id="construction" name="Construction">
+        <Resource id="concrete" name="Concrete" rarity="Common">
+            <Description>
+                Need a hard project done? Look no further than the crete of con.
+                This substance is strong and sturdy but it cracks under pressure, just like my mental health.
+            </Description>
+        </Resource>
+        <Resource id="reinforced_concrete" name="Reinforced Concrete" rarity="Common">
+
+        </Resource>
+        <Resource id="low_den_lattice" name="Low Density Lattice" rarity="Unique">
+
+        </Resource>
+        <Resource id="scaling_foundation" name="Scaling Foundation" rarity="Rare">
+
+        </Resource>
+    </Group>
+
+
+
+    <!--Metal and Crystal Refinement-->
+    <Group id="refinement" name="Refinement">
+        <Resource id="steel" name="Steel" rarity="Common">
+
+        </Resource>
+        <Resource id="copper" name="Copper" rarity="Common">
+
+        </Resource>
+        <Resource id="aluminium_plating" name="Aluminium Plating" rarity="Common">
+
+        </Resource>
+        <Resource id="refined_lithium" name="Refined Lithium" rarity="Common">
+
+        </Resource>
+        <Resource id="diamond" name="Diamond" rarity="Uncommon">
+
+        </Resource>
+        <Resource id="gold_plating" name="Gold Plating" rarity="Common">
+
+        </Resource>
+        <Resource id="water_ice" name="Water Ice" rarity="Common">
+
+        </Resource>
+        <Resource id="methane_ice" name="Methane Ice" rarity="Common">
+
+        </Resource>
+        <Resource id="nueral_spice" name="Nueral Spice" rarity="Rare">
+
+        </Resource>
+        <Resource id="vibranium_alloy" name="Vibranium Alloy" rarity="Unreal">
+
+        </Resource>
+        <Resource id="reinforced_alloy" name="Reinforced Alloy" rarity="Uncommon">
+
+        </Resource>
+        <Resource id="heavy_plating" name="Heavy Plating" rarity="Uncommon">
+
+        </Resource>
+        <Resource id="versatile_alloy" name="Versatile Alloy" rarity="Unique">
+
+        </Resource>
+    </Group>
+    
+    
+
+    <!--Middleman Materials-->
+    <Group id="materials" name="Materials">
+        <Resource id="plastic" name="Plastic" rarity="Common">
+
+        </Resource>
+        <Resource id="glass" name="Glass" rarity="Common">
+
+        </Resource>
+    </Group>
+
+
+
+
+    <!--Spacetime Materials-->
+    <Group id="spacetime_exotics" name="Spacetime Exotics">
+        <Resource id="antimatter" name="Antimatter" rarity="Rare">
+
+        </Resource>
+        <Resource id="particle_cloud" name="Particle Cloud" rarity="Unique">
+
+        </Resource>
+        <Resource id="prob_catalyst" name="Probabilty Catalyst" rarity="Unreal">
+
+        </Resource>
+        <Resource id="ambrosia_catalyst" name="Ambrosia Catalyst" rarity="Unreal">
+
+        </Resource>
+        <Resource id="inversium" name="Inversium" rarity="Unreal">
+            <Description>
+                A spacetime anomly where this material contains negative mass, creating a gravitational repulsion.
+            </Description>
+        </Resource>
+        <Resource id="dark_matter" name="Dark Matter" rarity="Unique">
+
+        </Resource>
+        <Resource id="dark_energy" name="Dark Energy" rarity="Unique">
+
+        </Resource>
+        <Resource id="spinor" name="Spinor" rarity="Unreal">
+
+        </Resource>
+        <Resource id="zp_quark" name="Zero Point Quark" rarity="Legendary">
+
+        </Resource>
+    </Group>
+    
+    
+    
+    <!--Researching Materials-->
+    <Group id="scientific" name="Scientific Materials">
+        <Resource id="prediction_matrix" name="Prediction Matrix" rarity="Unique">
+
+        </Resource>
+        <Resource id="unpredictable_matrix" name="Unpredictable Matrix" rarity="Rare">
+
+        </Resource>
+        <Resource id="organic_catalyst" name="Organic Catalyst" rarity="Uncommon">
+
+        </Resource>
+        <Resource id="ai_datum" name="AI Datum" rarity="Uncommon">
+
+        </Resource>
+    </Group>
+
+
+
+    <!--Electronics and Magnetism-->
+    <Group id="electronics_magnetics" name="Electronic and Magnetic Components">
+        <Resource id="copper_wiring" name="Copper Wiring" rarity="Common">
+
+        </Resource>
+        <Resource id="e_chip1" name="Electronic Chip" rarity="Common">
+
+        </Resource>
+        <Resource id="tesla_cabling" name="Tesla Cabling" rarity="Uncommon">
+
+        </Resource>
+        <Resource id="acid_battery" name="Acid Battery" rarity="Common">
+
+        </Resource>
+        <Resource id="lithium_battery" name="Lithium Ion Battery" rarity="Common">
+
+        </Resource>
+        <Resource id="quantium_cortex" name="Quantium Cortex" rarity="Unreal">
+
+        </Resource>
+        <Resource id="redstone_accelerator" name="Redstone Accelerator" rarity="Unique">
+
+        </Resource>
+        <Resource id="emag_array" name="Electromagnetism Array" rarity="Rare">
+
+        </Resource>
+        <Resource id="ai_chip" name="AI Chip" rarity="Uncommon">
+
+        </Resource>
+        <Resource id="refined_neodymium" name="Refined Neodymium" rarity="Rare">
+
+        </Resource>
+        <Resource id="dark_battery" name="Dark Energy Battery" rarity="Legendary">
+
+        </Resource>
+        <Resource id="flux_alternator" name="Flux Alternator" rarity="Rare">
+
+        </Resource>
+    </Group>
+    
+ 
+    
+    <!--Elements-->
+    <Group id="elements" name="Elements">
+        <Resource id="hydrogen" name="Hydrogen" rarity="Common">
+            <Description>
+                The most common yet crucial element in the universe.
+            </Description>
+        </Resource>
+        <Resource id="helium" name="Helium" rarity="Common">
+            <Description>
+                A common noble gas that somehow escapes both mining and handling.
+                Plus it can give some species silly voices! How cool is that?
+            </Description>
+        </Resource>
+        <Resource id="oxygen" name="Oxygen" rarity="Common">
+            <Description>
+                An easily excited element who gets along with everyone- sometimes too well...
+            </Description>
+        </Resource>
+        <Resource id="carbon" name="Carbon" rarity="Common">
+
+        </Resource>
+        <Resource id="raw_lithium" name="Raw Lithium" rarity="Common">
+
+        </Resource>
+        <Resource id="raw_aluminium" name="Raw Aluminium" rarity="Common">
+
+        </Resource>
+        <Resource id="nitrogen" name="Nitrogen" rarity="Common">
+
+        </Resource>
+    </Group>
+    
+    
+</Resources>

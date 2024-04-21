@@ -1,0 +1,87 @@
+group;id;name;rarity;description
+0;energy;Energy;0;This is the stuff that makes the world go round. Make sure you never run out, otherwise lights out!
+1;food1;Food;0;
+1;lab_equip1;Lab Equipment;0;
+2;iron_ore;Iron Ore;0;The raw form of the fundemental metal in an expansive space empire.
+2;copper_ore;Copper Ore;0;
+2;limestone;Limestone;0;Dead sea critters that have been squished and calcified into a delicious carbonate. Even then do they prove to be useful.
+2;uranium;Uranium;0;
+2;redstone;Redstone;0;
+2;vibranium_ore;Vibranium Ore;3;
+2;gold_ore;Gold Ore;1;
+2;quantium;Quantium;4;
+2;unraveled_tachyon;Tachyon;4;
+2;nueralmodium;Nueralmodium;2;
+2;neutronium;Neutronium;3;
+2;ion_crystal;Ion Crystal;1;
+2;flux_crystal;Flux Crystal;1;
+2;zionite;Zionite;2;
+2;enchantium;Enchantium;4;
+2;adamantium_ore;Adamantium Ore;2;
+2;titanium_ore;Titanium Ore;1;
+2;raw_neodymium;Raw Neodymium;3;
+3;enriched_uranium;Enriched Uranium;0;
+3;thorium;Thorium;1;
+3;unobtanium;Unobtanium;2;
+3;chemical_fuel;Chemical Fuel;1;
+3;antimatter_fuel;Antimatter Fuel;4;
+3;zp_fuel;Zero Point Fuel;5;
+4;water;Water;0;
+4;crude_oil;Crude Oil;0;
+4;methane_gas;Methane Gas;0;
+4;acid;Acid;0;
+4;ferrofluid;Ferrofluid;1;
+4;liquid_nitrogen;Liquid Nitrogen;0;
+4;plasma;Plasma;0;
+4;organic_sludge;Organic Sludge;0;
+5;concrete;Concrete;0;Need a hard project done? Look no further than the crete of con. This substance is strong and sturdy but it cracks under pressure, just like my mental health.
+5;reinforced_concrete;Reinforced Concrete;0;
+5;low_den_lattice;Low Density Lattice;2;
+5;scaling_foundation;Scaling Foundation;3;
+6;steel;Steel;0;
+6;copper;Copper;0;
+6;aluminium_plating;Aluminium Plating;0;
+6;refined_lithium;Refined Lithium;0;
+6;diamond;Diamond;1;
+6;gold_plating;Gold Plating;0;
+6;water_ice;Water Ice;0;
+6;methane_ice;Methane Ice;0;
+6;nueral_spice;Nueral Spice;3;
+6;vibranium_alloy;Vibranium Alloy;4;
+6;reinforced_alloy;Reinforced Alloy;1;
+6;heavy_plating;Heavy Plating;1;
+6;versatile_alloy;Versatile Alloy;2;
+7;plastic;Plastic;0;
+7;glass;Glass;0;
+8;antimatter;Antimatter;3;
+8;particle_cloud;Particle Cloud;2;
+8;prob_catalyst;Probabilty Catalyst;4;
+8;ambrosia_catalyst;Ambrosia Catalyst;4;
+8;inversium;Inversium;4;A spacetime anomly where this material contains negative mass, creating a gravitational repulsion.
+8;dark_matter;Dark Matter;2;
+8;dark_energy;Dark Energy;2;
+8;spinor;Spinor;4;
+8;zp_quark;Zero Point Quark;5;
+9;prediction_matrix;Prediction Matrix;2;
+9;unpredictable_matrix;Unpredictable Matrix;3;
+9;organic_catalyst;Organic Catalyst;1;
+9;ai_datum;AI Datum;1;
+10;copper_wiring;Copper Wiring;0;
+10;e_chip1;Electronic Chip;0;
+10;tesla_cabling;Tesla Cabling;1;
+10;acid_battery;Acid Battery;0;
+10;lithium_battery;Lithium Ion Battery;0;
+10;quantium_cortex;Quantium Cortex;4;
+10;redstone_accelerator;Redstone Accelerator;2;
+10;emag_array;Electromagnetism Array;3;
+10;ai_chip;AI Chip;1;
+10;refined_neodymium;Refined Neodymium;3;
+10;dark_battery;Dark Energy Battery;5;
+10;flux_alternator;Flux Alternator;3;
+11;hydrogen;Hydrogen;0;The most common yet crucial element in the universe.
+11;helium;Helium;0;A common noble gas that somehow escapes both mining and handling. Plus it can give some species silly voices! How cool is that?
+11;oxygen;Oxygen;0;An easily excited element who gets along with everyone- sometimes too well...
+11;carbon;Carbon;0;
+11;raw_lithium;Raw Lithium;0;
+11;raw_aluminium;Raw Aluminium;0;
+11;nitrogen;Nitrogen;0;

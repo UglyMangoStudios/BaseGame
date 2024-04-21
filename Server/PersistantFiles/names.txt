@@ -1,0 +1,1249 @@
+﻿# Naming file that contains all potential names
+# This is how you write comments. Lines
+# with this character are ignored.
+
+# Greek
+Zeus
+Hera
+Poseidon
+Cronos
+Aphrodite
+Hades
+Hephaistos
+Demeter
+Apollo
+Athena
+Artemis
+Ares
+Hermes
+Dionysus
+Persephone
+Eros
+Gaia
+
+# Roman
+Jupiter
+Juno
+Neptune
+Saturn
+Venus
+Pluto
+Vulcan
+Ceres
+Minerva
+Diana
+Mars
+Mercury
+Bacchus
+Proserpine
+Cupid
+Gaea
+
+# Egyptian
+Aker
+Amun
+Anhur
+Aten
+Atum
+Bennu
+Geb
+Hapi
+Horus
+Khepri
+Khnum
+Khonsu
+Maahes
+Montu
+Nefertum
+Nemty
+Neper
+Osiris
+Ptah
+Set
+Shu
+Sobek
+Sopdu
+Thoth
+Wadj-wer
+Amunet
+Anuket
+Bastet
+Bat
+Hathor
+Hatmehit
+Heqet
+Hesat
+Imentet
+Isis
+Maat
+Menhit
+Mut
+Neith
+Nekhbet
+Nephthys
+Nepit
+Nut
+Pakhet
+Renenutet
+Satet
+Sekhmet
+Tefnut
+Wadjet
+Wosret
+Anubis
+Anput
+Hapi
+Heh
+Kek
+Nu
+Ra
+Tatenen
+Aani
+Aati
+Am-heh
+Amenhotep I
+Amenhotep son of Hapu
+Amu-Aa
+Andjety
+Apedemak
+Apep
+Apis
+Arensnuphis
+Asclepius
+Ash
+Baal
+Babi
+Banebdjedet
+Ba-Pef
+Bes
+Buchis
+Dedun
+Dionysus-Osiris
+Ha
+Ḥapy
+Hardedef
+Harmachis
+Haurun
+Heka
+Heryshaf
+Hu
+Iah
+Ihy
+Imhotep
+Kagemni
+Khenti-Amenti(u)
+Kherty
+Kneph
+Mandulis
+Mehen
+Mestȧ
+Min
+Mnevis
+Nefertum
+Nehebu-Kau
+Petbe
+Ptah-hotep
+Qebeḥsenuf
+Qebui
+Reshep
+Sah
+Sebiumeker
+Seker
+Serapis
+Shed
+Shezmu
+Sia
+Sopd
+Ṭuamutef
+Tutu
+Uneg/Weneg
+Wepwawet
+Yam
+Ammit
+Anat
+Astarte
+Ba'alat Gebal
+Hatmehit
+Hedetet
+Iabet
+Iat
+Ipy
+Ishtar
+Iusaaset
+Kebehut
+Mafdet
+Mehet-Weret
+Mehit
+Menhit
+Meretseger
+Meret
+Meskhenet
+Naunet
+Nebethetepet
+Nefertari
+Nehmetawy
+Perit
+Qetesh
+Raet-Tawy
+Renenet
+Renpet
+Serket
+Seshat
+Shesmetet
+Sopdet
+Ta-Bitjet
+Taweret
+Tayt
+Tenenet
+Unut
+Wepset
+Werethekau
+Hedjhotep
+Shai
+Aqen
+Aati
+Medjed
+Ennead
+Theban Triad
+Horus
+Hemsut
+Ogdoad
+Pe'Nekhen
+
+# Norse
+Óðinn
+Baldur
+Njörður
+Freyr
+Týr
+Bragi
+Heimdal
+Thor
+Höðr
+Víðar
+Áli
+Váli
+Ullr
+Forseti
+Óðinn
+Þór
+Njörðr
+Freyr
+Thor
+Týr
+Heimdal
+Bragi
+Víðar
+Váli
+Ullr
+Hœnir
+Forseti
+Ygg
+Þór
+Yngvi-Freyr
+Víðar
+Baldur
+Váli
+Heimdal
+Týr
+Njörðr
+Bragi
+Höðr
+Forsseih
+Loki
+Frigg
+Sága
+Eir
+Gefjon
+Fulla
+Freyja
+Sjöfn
+Lofn
+Vár
+Vör
+Syn
+Hlín
+Snotra
+Gná
+Sol
+Bil
+Frigg
+Freyja
+Gefjon
+Iðunn
+Gerd
+Sigyn
+Fulla
+Nanna
+Frigg
+Freyja
+Fulla
+Snotra
+Gerð
+Gefjon
+Gná
+Lofn
+Skadi
+Jörð
+Iðunn
+Ilm
+Bil
+Njörun
+Hlín
+Nanna
+Hnoss
+Rind
+Sjöfn
+Sol
+Sága
+Sigyn
+Vör
+Vár
+Syn
+Þrúð
+Rán
+
+# Monsters and Myths
+# Credits: https://en.wikipedia.org/wiki/List_of_legendary_creatures_by_type
+Bahamut
+Bake-kujira
+Cetus
+Devil Whale
+Encantado
+Glashtyn
+Makara
+Mug-wamp
+Sea goat
+Selkie
+Water bull
+Water Horse
+Ceffyl Dŵr
+Each-uisge
+Enbarr
+Hippocampus
+Ichthyocentaurs
+Kelpie
+Morvarc'h
+Nixie
+Nuckelavee
+Nuggle
+Tangie
+Anansi
+Arachne
+Carbuncle
+Gold-digging ant
+Iktomi
+Jorōgumo
+Karkinos
+Khepri
+Mothman
+Myrmecoleon
+Myrmidons
+Pabilsag
+Scorpion man
+Selket
+Tsuchigumo
+Ababil
+Adarna
+Avalerion
+Alicanto
+Anqa
+Anzû
+Bare-fronted Hoodwink
+Bird People
+Alkonost
+Yōkai
+Harpy
+Aello
+Ocypete
+Celaeno
+Podarge
+Horus
+Inmyeonjo
+Kalavinka
+Karura
+Kinnara
+Siren
+Achelois
+Aglaonoe
+Agalaope
+Leucosia
+Ligeia
+Parthenope
+Pisinoe
+Thelxinoë
+Swan maiden
+Caladrius
+Chalkydri
+Chamrosh
+Cinnamon bird
+Devil Bird
+Gagana
+Gandabherunda
+Gamayun
+Garuda
+Hakawai
+Hudhud
+Huginn and Muninn
+Itsumade
+Jingwei
+Lamassu
+Luan
+Minokawa
+Nachtkrapp
+Nine-headed Bird
+Oozlum bird
+Pamola
+Peng
+Phoenix
+Bennu
+Chol
+Firebird
+Fenghuang
+Huma bird
+Konrul and Toghrul
+Vermilion Bird
+Piasa
+Qingniao
+Ra
+Rain Bird
+Raróg
+Roc
+Shangyang
+Shedu
+Simurgh
+Stymphalian birds
+Tengu
+Three-legged bird
+Thunderbird
+Thoth
+Turul
+Vucub Caquix
+Yatagarasu
+Zhenniao
+Alectryon
+Basan
+Cockatrice
+Gallic rooster
+Gullinkambi
+Rooster of Barcelos
+Sarimanok
+Víðópnir
+Aethon
+Griffin
+Hippogriff
+Hræsvelgr
+Poukai
+Shahbaz
+Triple-headed eagle
+Ziz
+Zu
+Nyctimene
+Owlman
+Sirin
+Strix
+Adlet
+Amarok
+Anubis
+Aralez
+Asena
+Axehandle hound
+Black dog
+Beast of Gévaudan
+Carbuncle
+Cerberus
+Chupacabra
+Cu Sith
+Crocotta
+Cynocephaly
+Dogs of Actaeon
+Fenrir
+Gelert
+Hellhound
+Huli jing
+Huodou
+Orthrus
+Penghou
+Salawa
+Sigbin
+Sky Fox (mythology)
+Shug Monkey
+Tanuki
+Vǎrkolak
+Werewolf
+Bael
+Ball-tailed cat
+Cactus cat
+Cat-sìth
+Cath Palug
+Carbuncle
+Demon Cat
+Kaibyō
+Bakeneko
+Kasha
+Nekomata
+Nue
+Panther
+Phantom cat, Alien Big Cat
+Blue Mountains panther
+Glawackus
+Tyger
+Underwater panther
+Vapula
+Wampus cat
+White Tiger
+Winged cat
+Arimanius
+Ammit
+Barong
+Beast of the First Kingdom
+Brunswick Lion
+Chimera
+Chinese guardian lions
+Komainu
+Shisa
+Sin-you
+Xiezhi
+Dawon
+Egyptian lion gods
+Aker
+Apedemak
+Bast
+Ipy (goddess)
+Maahes
+Mehit
+Menhit
+Pakhet
+Repyt
+Sekhmet
+Shesmetet
+Taweret
+Tefnut
+Tutu
+Griffin
+Lamassu
+Lampago
+Leo
+Lion of Cithaeron
+Nemean lion
+Lion of Al-lāt
+Manticore
+Manussiha
+Merlion
+Narasimha
+Nian
+Nongshāba
+Pixiu
+Questing Beast
+Sea-lion
+Serpopard
+Sharabha
+Simhamukha
+Snow Lion
+Sphinx
+Egyptian
+Persian
+Hieracosphinx
+Stratford Lyon
+Tigris
+Vaikuntha Chaturmurti
+Winged lion
+Yali 
+Yaghūth
+Yaldabaoth
+Azeban
+Gef
+Ichneumon
+Kamaitachi
+Kushtaka
+Mujina
+Ramidreju
+Raijū
+Fish People
+Mermaid
+Water spirit
+Undine
+Abaia
+Gurangatch
+Hippocamp
+Ika-Roa
+Isonade
+Namazu
+Ningyo
+Kun
+Salmon of Wisdom
+Shachihoko
+Agropelter
+Bigfoot
+Hibagon
+Jué yuán
+Satori
+Shōjō
+Shug Monkey
+Sun Wukong
+Vanara
+Yeren
+Yeti
+Yowie
+Al-Mi'raj
+Jackalope
+Moon rabbit
+Skvader
+Wisakedjak
+Wolpertinger
+Ammut
+Bakunawa
+Basilisk
+Black Tortoise
+Chalkydri
+Chinese Dragon
+Cipactli
+Dragon
+Dungavenhooter
+Knucker
+Kurma
+Loch Ness Monster
+Loveland frog
+Makara
+Mokele Mbembe
+Morgawr
+Mungoon-Gali
+Peluda
+Reptilian humanoids
+Sewer alligator
+Sobek
+Taniwha
+Whowie
+Wyvern
+Zaratan
+Alicante
+Amphisbaena
+Amphithere
+Apep/Apophis
+Azhi Dahaka
+Basilisk
+Bakonawa
+Biscione
+Cockatrice
+Dragon
+Drake
+Echidna
+Fáfnir
+Feathered serpent
+Garafena
+Gorgon
+Hoop snake
+Indus worm
+Hydra
+Jaculus
+Jasconius
+Jörmungandr
+Lamia
+Lindworm
+Madame White Snake
+Meretseger
+Mongolian Death Worm
+Naga
+Níðhöggr
+Ouroboros
+Python
+Rainbow serpent
+Sea serpent
+Tarasque
+Tsuchinoko
+Typhon
+Ur
+Wyvern
+Yamata no Orochi
+Zilant
+Afanc
+Ratatoskr
+Rat king
+Wolpertinger
+Actaeon
+Ceryneian Hind
+Deer Woman
+Eikþyrnir
+Goldhorn
+Jackalope
+Keresh
+Peryton
+Qilin
+White stag
+Xeglun
+Auðumbla
+Bai Ze
+Kujata
+Bicorn and Chichevache
+Bonnacon
+Minotaur
+Nandi
+Sarangay
+Shedu
+Ushi-oni
+Amalthea
+Aries
+Barometz
+Capricornus
+Chimera
+Dahu
+Faun
+Goldhorn
+Heiðrún
+Khnum
+Satyr
+Sidehill gouger
+Tanngrisnir and Tanngnjóstr
+Chrysomallos
+Anggitay
+Arion
+Balius and Xanthus
+Buraq
+Centaur
+Cheval Gauvin
+Cheval Mallet
+Chiron
+Chollima
+Haizum
+Hippogriff
+Ipotane
+Karkadann
+Kotobuki
+Longma
+Onocentaur
+Pegasus
+Pooka
+Sleipnir
+Simurgh
+Sihuanaba
+Tikbalang
+Uchchaihshravas
+Unicorn
+Winged unicorn
+Water Horse
+Ceffyl Dŵr
+Each-uisge
+Enbarr
+Hippocampus
+Ichthyocentaurs
+Kelpie
+Morvarc'h
+Nixie
+Nuckelavee
+Nuggle
+Tangie
+White horse
+Abath
+Baku
+Behemoth
+Taweret
+Automaton
+Blodeuwedd
+Brazen head
+Frankenstein's monster
+Galatea
+Gingerbread man
+Golem
+Homunculus
+Nephele
+Shabti
+Tokeloshe
+Tilberi
+Tsukumogami
+Tulpa
+Tupilaq
+Ushabti
+Alan
+Chupacabra
+Dhampir
+Preta
+Golden Hind
+Kappa
+Kekkai
+Lamia
+Manananggal
+Mandurugo
+Redcap
+Rokurokubi
+Sigbin
+Vampire
+Werewolf
+Yuki-onna
+Argus Panoptes
+Basilisk
+Catoblepas
+Cockatrice
+Cyclopes
+Gorgon
+Hitotsume-kozou
+Lamia
+Lynx
+Mokumokuren
+Amphisbaena
+Cerberus
+Chimera
+Chonchon
+Double-headed eagle
+Dullahan
+Hekatonkheires
+Hydra
+Lernaean Hydra
+Nine-headed Bird
+Nukekubi
+Rokurokubi
+Orthrus
+Shesha
+Penanggalan
+Wanyūdō
+Xing Tian
+Yacuruna
+Yamata no Orochi
+Asura
+Deva
+Hekatonkheires
+Kui
+Sleipnir
+Three-legged bird
+Androktasiai
+Erinyes
+Hysminai
+Keres
+Lemures
+Makhai
+Onryō
+Phonoi
+Valkyrie
+Vengeful ghost
+Ammit
+Banshee
+Demon
+Devil
+Dullahan
+Ghost
+Grim Reaper
+Ox-Head and Horse-Face
+Phoenix
+Undead
+Valkyrie
+Vampire
+Alp
+Baku
+Carbuncle
+Devil
+Drude
+Incubus
+Mermaid
+Nightmare
+Nue
+Oni
+Sandman
+Satori
+Zduhać
+Basilisk
+Balor of the Evil Eye
+Catoblepas
+Cockatrice
+Gorgon
+Medusa
+Euryale
+Stheno
+Alan
+Boto
+Faun
+Gancanagh
+German
+Incubus
+Maenad
+Nymph
+Pombero
+Popobawa
+Satyr
+Sileni
+Silenus
+Unicorn
+Zemyna
+Simurgh
+Carbuncle
+Dwarf
+Egbere
+Genie
+Leib-Olmai
+Leprechaun
+Matagot
+Pixiu
+Sarimanok
+Sigbin
+Yaksha
+Cupid
+Gancanagh
+Selkie
+Swan maiden
+Madame White Snake
+Melusine
+Tennin
+Undine
+Chalkydri
+Deity
+Elemental
+Spirit
+Angel
+Demon
+Devil
+Yokai
+Nymph
+Elf
+Fairy
+Black dog
+Bogeyman
+Ghost
+Grim Reaper
+Wechuge
+Wendigo
+Shadow People
+Vampire
+Werewolf
+Oni
+Gashadokuro
+Camazotz
+Wild Hunt
+Hell Hound
+Asag
+Bluecap
+Elemental
+Dwarf
+Earth Dragon
+Gargoyle
+Giant
+Gnome
+Goblin
+Golem
+Monopod
+Nymph
+Ogre
+Oread
+Ten Ten-Vilu
+Troll
+Basan
+Bluecap
+Cherufe
+Chimera
+Dragon
+Elemental
+Ifrit
+Hellhound
+Lampad
+Phoenix
+Salamander
+Angel
+Chalkydri
+Light Elf
+Rainbow crow
+Rainbow Serpent
+Alicanto
+Pixiu
+Carbunclo
+Chrysomallos
+Cyclopes
+Griffin
+Gnome
+Leprechaun
+Bulgasari
+Chinese dragon
+Cyclopes
+Feldgeister
+Kitsune
+Raijū
+Thunderbird
+Valkyrie
+Afanc
+Amefurikozō
+Aspidochelone
+Bloody Bones
+Buggane
+Bunyip
+Camenae
+Capricorn
+Cetus
+Charybdis
+Chinese Dragon
+Cai Cai-Vilu
+Crinaeae
+Davy Jones' Locker
+Draug
+Each uisge
+Elemental
+Fish People
+Fossegrim
+Fur-bearing trout
+Gargouille
+Grindylow
+Haetae
+Hippocamp
+Hydra
+Ichthyocentaur
+Jasconius
+Jengu
+Kappa
+Kelpie
+Kraken
+Lake monster
+Lavellan
+Leviathan
+Loch Ness monster
+Lorelei
+Lusca
+Makara
+Melusine
+Mami Wata
+Mermaid
+Merrow
+Morgens
+Muc-sheilch
+Naiad
+Näkki
+Nereid
+Nix
+Nymph
+Pisces
+Ponaturi
+Potamus
+Rusalka
+Samebito
+Sea monster
+Sea serpent
+Selkie
+Shen
+Siren
+Taniwha
+Tiamat
+Triton
+Ondine
+Vodyanoy
+Water dragon
+Water leaper
+Water sprite
+Yacuruna
+Zaratan
+Dwarf
+European dragon
+Gnome
+Goblin
+Golem
+Grootslang
+Leprechaun
+Troll
+Yaoguai
+Angel
+Asteriae
+Chalkydri
+Deva
+Feathered serpent
+Heavenly Llama
+Pegasus
+Grim Reaper
+Swan Maiden
+Tennin
+Three-legged bird
+Valkyrie
+Amphisbaena
+Basilisk
+Cockatrice
+Ghoul
+Mongolian Death Worm
+Sphinx
+Ajatar
+Bigfoot
+Dryad
+Elf
+Green Man
+Irrwurz
+Leshy
+Lindworm
+Mavka
+Moss people
+Owlman
+Satyr
+Unicorn
+Curupira
+Dingonek
+Mapinguari
+Manticore
+Saci
+Ahuitzotl
+Bak
+Bunyip
+Chinese dragon
+Dobhar-chú
+Encantado
+Grootslang
+Iara
+Jiaolong
+Kappa
+Kelpie
+Lake monster
+Hydra
+Loch Ness Monster
+Mizuchi
+Mugwump
+Naiad
+Nixie
+Ogopogo
+Ondine
+Rainbow serpent
+Rusalka
+Ryujin
+Shellycoat
+Warlock
+Yacuruna
+Alp
+Dwarf
+Fenghuang
+Griffin
+Hippogriff
+Mountain Giant
+Kamaitachi
+Mavka
+Oread
+Patupaiarehe
+Rübezahl
+Satyr
+Tengu
+Yeti
+Aspidochelone
+Bishop-fish
+Charybdis
+Cai Cai-Vilu
+Dragon King
+Fish People
+Hippocamp
+Leviathan
+Jormungand
+Kraken
+Mermaid
+Nereid
+Sea monk
+Sea monster
+Sea serpent
+Selkie
+Shen
+Siren
+Tritons
+Umibōzu
+Water Dragon
+Yacuruna
+Błudnik
+Bunyip
+Grootslang
+Lernaean Hydra
+Honey Island Swamp monster
+Mokele-mbembe
+Swamp monster
+Will-o'-the-wisp
+Akhlut
+Amarok
+Hrimthurs
+Ijiraq
+Jotun
+Qiqirn
+Saumen Kar
+Tizheruk
+Wechuge
+Wendigo
+Yeti
+Ymir
+Yuki-onna
+Banshee
+Boggart
+Brownie
+Domovoi
+Dvorovoi
+Duende
+Jinn
+Kobold
+Tomte
+Vampire
+Zashiki-warashi
+Ammit
+Cerberus
+Cyclopes
+Demon
+Devil
+Earth Dragon
+Garm
+Hekatonkheires
+Hellhound
+Ifrit
+Ox-Head and Horse-Face
+Preta
+Azure Dragon
+Black Tortoise
+Capricorn
+Centaur
+Heavenly Llama
+Ladon
+Nemean Lion
+Pegasus
+Phoenix
+Vermilion Bird
+Yellow Dragon
+White Tiger
+Alraune
+Dryad
+Ghillie Dhu
+Green Man
+Hamadryad
+Jubokko
+Kodama
+Leshy
+Mandrake
+Penghou
+Spriggan
+Tree of life
+Vegetable Lamb of Tartary
+Trees in mythology
+Griffin
+Jackalope
+Unicorn
+Wolpertinger
+Amarok
+Bigfoot
+Ghoul
+Owlman
+Werewolf
+Vampire
+Aswang
+Banshee
+Ghost
+Jikininki
+Kuchisake-onna
+Poltergeist
+Preta
+Spirit
+Vampire
+Wewe Gombel
+Wili
+Will o' the wisp
+Wraith
+Yurei
+Draugr
+Fext
+Ghoul
+Jiangshi
+Lich
+Manananggal
+Mummy 
+Myling
+Nukekubi
+Pontianak
+Skeleton
+Undead
+Vampire
+Zombie
+Daimon
+Demon
+Fairy
+Familiar
+Genie
+Monster
+Sprite
+Yōkai
