@@ -1,8 +1,8 @@
 ﻿using Discord;
 using Discord.Interactions;
 using Discord.WebSocket;
-using SpaceCore.Data.Discord;
-using SpaceCore.Data.Saves;
+using Core.Data.Discord;
+using Core.Data.Saves;
 using SpaceDiscordBot.Frameworks.Exceptions;
 using SpaceDiscordBot.Services.API.Discord;
 using SpaceDiscordBot.Services.API.Game;

@@ -1,4 +1,4 @@
-﻿using SpaceCore.Data.Discord;
+﻿using Core.Data.Discord;
 
 namespace SpaceDiscordBot.Services.API.Discord
 {

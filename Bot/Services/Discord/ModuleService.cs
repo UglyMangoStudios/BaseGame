@@ -1,6 +1,6 @@
 ﻿using System.Data;
-using SpaceCore.Data.Discord;
-using SpaceCore.Types;
+using Core.Data.Discord;
+using Core.Types;
 using SpaceDiscordBot.Frameworks.Attributes;
 using Serilog;
 using System.Reflection;

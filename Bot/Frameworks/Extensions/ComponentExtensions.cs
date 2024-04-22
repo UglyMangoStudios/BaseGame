@@ -1,7 +1,7 @@
 ﻿using Discord;
 using Discord.Interactions;
 using Serilog;
-using SpaceCore.Game.Components;
+using Core.Game.Components;
 using SpaceDiscordBot.Utilities.Game;
 using System.Reflection;
 

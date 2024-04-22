@@ -2,10 +2,10 @@
 using Discord.Interactions;
 using Discord.WebSocket;
 using Serilog;
-using SpaceCore.Data.Discord;
-using SpaceCore.Data.Saves;
-using SpaceCore.Game.Components;
-using SpaceCore.Types;
+using Core.Data.Discord;
+using Core.Data.Saves;
+using Core.Game.Components;
+using Core.Types;
 using SpaceDiscordBot.Frameworks.Exceptions;
 using SpaceDiscordBot.Services.Discord;
 using static SpaceDiscordBot.Services.Discord.ActionService;

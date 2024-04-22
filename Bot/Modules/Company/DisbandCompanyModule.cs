@@ -1,7 +1,7 @@
 ﻿using Discord;
 using Discord.Interactions;
-using SpaceCore.Data.Discord;
-using SpaceCore.Types;
+using Core.Data.Discord;
+using Core.Types;
 using SpaceDiscordBot.Frameworks;
 using SpaceDiscordBot.Frameworks.Extensions;
 using SpaceDiscordBot.Services.Discord;

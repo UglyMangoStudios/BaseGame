@@ -1,5 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using SpaceCore.Data.Discord;
+using Core.Data.Discord;
 using SpaceServer.Services.Player;
 
 namespace SpaceServer.Controllers.PlayerControllers

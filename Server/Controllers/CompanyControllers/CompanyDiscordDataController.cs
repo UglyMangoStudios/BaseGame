@@ -1,5 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using SpaceCore.Data.Discord;
+using Core.Data.Discord;
 using SpaceServer.Services.Company;
 
 namespace SpaceServer.Controllers.CompanyControllers

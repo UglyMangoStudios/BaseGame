@@ -1,9 +1,9 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.ObjectPool;
 using Microsoft.Extensions.Options;
-using SpaceCore.Game.Components;
-using SpaceCore.Game.Entities.Buildables.Buildings;
-using SpaceCore.Utility;
+using Core.Game.Components;
+using Core.Game.Entities.Buildables.Buildings;
+using Core.Utility;
 using SpaceServer.Database.Base;
 using SpaceServer.Settings.Contexts;
 

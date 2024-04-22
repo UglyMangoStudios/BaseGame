@@ -1,9 +1,9 @@
 ﻿using Discord;
 using Discord.Interactions;
 using Discord.WebSocket;
-using SpaceCore.Game.Components;
-using SpaceCore.Game.Space;
-using SpaceCore.Game.Space.Bodies;
+using Core.Game.Components;
+using Core.Game.Space;
+using Core.Game.Space.Bodies;
 using SpaceDiscordBot.Modules.Game;
 using SpaceDiscordBot.Services.Discord;
 using SpaceDiscordBot.Utilities;

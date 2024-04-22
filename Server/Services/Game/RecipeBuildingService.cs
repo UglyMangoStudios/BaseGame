@@ -1,4 +1,4 @@
-﻿using SpaceCore.Game.Entities.Buildables.Buildings;
+﻿using Core.Game.Entities.Buildables.Buildings;
 using SpaceServer.Database.Game;
 
 namespace SpaceServer.Services.Game

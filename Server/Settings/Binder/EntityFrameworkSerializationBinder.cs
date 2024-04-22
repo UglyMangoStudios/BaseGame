@@ -11,7 +11,7 @@ namespace SpaceServer.Settings.Binder
 			assemblyName = null;
 
 			if (serializedType.Namespace == "Castle.Proxies")
-				typeName = serializedType?.BaseType?.FullName + ", SpaceCore";
+				typeName = serializedType?.BaseType?.FullName + ", Core";
 			else
 				//typeName = serializedType?.FullName + ", System.Private.CoreLib";
 				DefaultBinder.BindToName(serializedType, out assemblyName, out typeName);

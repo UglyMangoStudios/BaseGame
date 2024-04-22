@@ -1,4 +1,4 @@
-﻿using SpaceCore.Data.Saves;
+﻿using Core.Data.Saves;
 using SpaceServer.Database.Game;
 
 namespace SpaceServer.Services.Player

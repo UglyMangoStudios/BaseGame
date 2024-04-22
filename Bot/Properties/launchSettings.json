@@ -1,6 +1,6 @@
 {
   "profiles": {
-    "SpaceDiscordBot": {
+    "Start Bot": {
       "commandName": "Project",
       "launchBrowser": true,
       "launchUrl": "swagger",
@@ -9,10 +9,6 @@
       },
       "dotnetRunMessages": true,
       "applicationUrl": "https://localhost:8080"
-    },
-    "NoBot": {
-      "commandName": "Project",
-      "commandLineArgs": "noBot"
     }
   }
 }

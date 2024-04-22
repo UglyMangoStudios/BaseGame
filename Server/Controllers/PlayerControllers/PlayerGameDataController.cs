@@ -1,5 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using SpaceCore.Data.Saves;
+using Core.Data.Saves;
 using SpaceServer.Services.Game.Generation;
 using SpaceServer.Services.Player;
 

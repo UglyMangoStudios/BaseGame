@@ -1,5 +1,5 @@
-﻿using SpaceCore.Game.Entities.Buildables;
-using SpaceCore.Game.Entities.Buildables.Buildings;
+﻿using Core.Game.Entities.Buildables;
+using Core.Game.Entities.Buildables.Buildings;
 
 namespace SpaceDiscordBot.Services.API.Game
 {

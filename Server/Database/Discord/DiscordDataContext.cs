@@ -1,6 +1,6 @@
 ﻿using Microsoft.EntityFrameworkCore;
-using SpaceCore.Data.Discord;
-using SpaceCore.Game.Components;
+using Core.Data.Discord;
+using Core.Game.Components;
 using SpaceServer.Database.Base;
 
 namespace SpaceServer.Database.Discord

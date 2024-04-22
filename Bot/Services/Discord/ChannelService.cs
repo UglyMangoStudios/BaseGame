@@ -1,6 +1,6 @@
 ﻿using Discord;
 using Discord.WebSocket;
-using SpaceCore.Data.Discord;
+using Core.Data.Discord;
 using SpaceDiscordBot.Frameworks.Exceptions;
 using SpaceDiscordBot.Modules;
 using SpaceDiscordBot.Services.Discord;

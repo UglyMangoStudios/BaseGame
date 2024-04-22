@@ -1,12 +1,11 @@
 ﻿using Discord;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Serilog;
-using SpaceCore.Game.Components;
-using SpaceCore.Game.Entities.Buildables;
-using SpaceCore.Game.Space;
-using SpaceCore.Game.Space.Base;
-using SpaceCore.Game.Space.Bodies;
-//using SpaceCore.Game.Space.Bodies.Components;
+using Core.Game.Components;
+using Core.Game.Entities.Buildables;
+using Core.Game.Space;
+using Core.Game.Space.Base;
+using Core.Game.Space.Bodies;
 
 namespace SpaceDiscordBot.Utilities.Game
 {

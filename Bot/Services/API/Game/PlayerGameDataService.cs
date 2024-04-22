@@ -1,4 +1,4 @@
-﻿using SpaceCore.Data.Saves;
+﻿using Core.Data.Saves;
 
 namespace SpaceDiscordBot.Services.API.Game
 {

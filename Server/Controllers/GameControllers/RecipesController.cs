@@ -1,5 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using SpaceCore.Game.Components;
+using Core.Game.Components;
 using SpaceServer.Services.Game;
 
 namespace SpaceServer.Controllers.GameControllers

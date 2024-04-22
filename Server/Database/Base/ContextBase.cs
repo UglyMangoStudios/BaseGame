@@ -1,6 +1,6 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using Serilog;
-using SpaceCore.Attributes;
+using Core.Attributes;
 using System.Reflection;
 using ILogger = Serilog.ILogger;
 

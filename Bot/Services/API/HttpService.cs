@@ -1,7 +1,7 @@
 ﻿using Microsoft.Extensions.Options;
 using Newtonsoft.Json;
 using Serilog;
-using SpaceCore.Extensions;
+using Core.Extensions;
 using SpaceDiscordBot.Settings;
 using System.Net;
 using System.Net.Http.Headers;

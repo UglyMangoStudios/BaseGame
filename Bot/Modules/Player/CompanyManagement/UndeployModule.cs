@@ -1,7 +1,7 @@
 ﻿using Discord.WebSocket;
 using Discord;
-using SpaceCore.Data.Discord;
-using SpaceCore.Types;
+using Core.Data.Discord;
+using Core.Types;
 using SpaceDiscordBot.Frameworks;
 using SpaceDiscordBot.Utilities;
 using Discord.Interactions;

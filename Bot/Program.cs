@@ -14,27 +14,26 @@ using SpaceDiscordBot.Services.Discord;
 using SpaceDiscordBot.Settings;
 using Discord.Interactions;
 using SpaceDiscordBot.Services.API.Utility;
-
-
-//Default configuration for this server
-var configuration = new ConfigurationBuilder()
-		.SetBasePath(Directory.GetCurrentDirectory())
-		.AddJsonFile("appsettings.json")
-		.AddJsonFile($"appsettings.{Environment.GetEnvironmentVariable("ASPNETCORE_ENVIRONMENT") ?? "Production"}.json", true)
-		.Build();
-
-//Assigning the static logger reference
-Log.Logger = new LoggerConfiguration()
-	.ReadFrom.Configuration(configuration)
-	.WriteTo.Console(theme: AnsiConsoleTheme.Code)
-	.CreateLogger();
+using System.Runtime.CompilerServices;
 
 //And thus, we begin
 Log.Information("[SPACE_DISCORD_BOT]:	Starting application");
 
-
-
 var builder = WebApplication.CreateBuilder(args);
+
+//Default configuration for this server
+var Configuration = builder.Configuration;
+		//.SetBasePath(Directory.GetCurrentDirectory())
+		//.AddJsonFile("appsettings.json")
+		//.AddJsonFile($"appsettings.{Environment.GetEnvironmentVariable("ASPNETCORE_ENVIRONMENT") ?? "Production"}.json", true)
+		//.AddUserSecrets<Program>()
+		//.Build();
+
+//Assigning the static logger reference
+Log.Logger = new LoggerConfiguration()
+	.ReadFrom.Configuration(Configuration)
+	.WriteTo.Console(theme: AnsiConsoleTheme.Code)
+	.CreateLogger();
 
 //Use Serilog for the app's logging provider
 builder.Host.UseSerilog();
@@ -81,12 +80,6 @@ services
 		return new InteractionService(service.GetClient());
 	});
 ;
-
-//Configurations
-var configBuilder = new ConfigurationBuilder()
-			.AddJsonFile("appsettings.json", optional: false, reloadOnChange: true);
-
-var Configuration = configBuilder.Build();
 
 services
 	.Configure<ApiSettings>(Configuration.GetSection("ApiSettings"))

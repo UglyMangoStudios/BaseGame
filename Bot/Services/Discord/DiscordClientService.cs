@@ -35,9 +35,9 @@ namespace SpaceDiscordBot.Services.Discord
 
 			Client = new(socketConfig);
 
-			if (_botSettings.Token is null || _botSettings.CenterGuildId == 0)
+			if (_botSettings.Token is null || _botSettings.HQGuildId == 0)
 			{
-				Console.Error.WriteLine("The bot token and the central guild id is required within the Environment! This is a fatal exception.");
+				Log.Fatal("The bot token and the central guild id is required within the Environment! This is a fatal exception.");
 				Environment.Exit(1);
 			}
 
@@ -46,7 +46,7 @@ namespace SpaceDiscordBot.Services.Discord
 
 			Client.Ready += async () =>
 			{
-				_centralGuild = Client.GetGuild(_botSettings.CenterGuildId);
+				_centralGuild = Client.GetGuild(_botSettings.HQGuildId);
 				if (_centralGuild is null)
 				{
 					Log.Fatal("Unable to find the central discord server from the provided id. This is a fatal exception.");

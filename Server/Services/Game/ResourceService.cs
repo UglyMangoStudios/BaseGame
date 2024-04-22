@@ -1,4 +1,4 @@
-﻿using SpaceCore.Game.Components;
+﻿using Core.Game.Components;
 using SpaceServer.Database.Game;
 
 namespace SpaceServer.Services.Game

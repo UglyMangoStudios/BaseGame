@@ -1,8 +1,8 @@
 ﻿using Discord;
 using Discord.Interactions;
-using SpaceCore.Game.Components;
-using SpaceCore.Game.Space;
-using SpaceCore.Game.Space.Bodies;
+using Core.Game.Components;
+using Core.Game.Space;
+using Core.Game.Space.Bodies;
 using SpaceDiscordBot.Frameworks.Extensions;
 using SpaceDiscordBot.Services.Discord;
 using SpaceDiscordBot.Utilities.Game;

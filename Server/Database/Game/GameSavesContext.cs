@@ -1,9 +1,9 @@
 ﻿using Microsoft.EntityFrameworkCore;
-using SpaceCore.Data.Saves;
-using SpaceCore.Game.Components;
-using SpaceCore.Game.Entities.Buildables.Buildings;
-using SpaceCore.Game.Space;
-using SpaceCore.Game.Space.Bodies;
+using Core.Data.Saves;
+using Core.Game.Components;
+using Core.Game.Entities.Buildables.Buildings;
+using Core.Game.Space;
+using Core.Game.Space.Bodies;
 using SpaceServer.Database.Base;
 
 namespace SpaceServer.Database.Game

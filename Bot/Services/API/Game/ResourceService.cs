@@ -1,4 +1,4 @@
-﻿using SpaceCore.Game.Components;
+﻿using Core.Game.Components;
 
 namespace SpaceDiscordBot.Services.API.Game
 {

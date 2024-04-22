@@ -1,7 +1,7 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Options;
 using Serilog.Events;
-using SpaceCore.Utility;
+using Core.Utility;
 using SpaceServer.Database.Base;
 using SpaceServer.Settings.Contexts;
 using System.ComponentModel.DataAnnotations;

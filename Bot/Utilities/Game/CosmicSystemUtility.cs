@@ -1,5 +1,5 @@
 ﻿using Discord;
-using SpaceCore.Game.Space;
+using Core.Game.Space;
 
 namespace SpaceDiscordBot.Utilities.Game
 {

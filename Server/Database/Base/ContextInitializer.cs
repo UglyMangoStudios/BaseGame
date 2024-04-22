@@ -1,7 +1,7 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Options;
-using SpaceCore.Data.Saves;
-using SpaceCore.Game.Components;
+using Core.Data.Saves;
+using Core.Game.Components;
 using SpaceServer.Services.Game.Generation;
 using SpaceServer.Settings.Contexts;
 using System.Reflection;

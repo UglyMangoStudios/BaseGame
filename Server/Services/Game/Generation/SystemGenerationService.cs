@@ -1,7 +1,7 @@
-﻿using SpaceCore.Game.Space;
-using SpaceCore.Game.Space.Base;
-using SpaceCore.Game.Space.Bodies;
-using SpaceCore.Types;
+﻿using Core.Game.Space;
+using Core.Game.Space.Base;
+using Core.Game.Space.Bodies;
+using Core.Types;
 using SpaceServer.Services.Utilization;
 
 namespace SpaceServer.Services.Game.Generation
